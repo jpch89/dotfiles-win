@@ -1,5 +1,7 @@
 # dotfiles-win
+
 本仓库存放各种配置文件，适用于 Windows 系统。
+
 它们位于 `%USERPROFILE%` 路径下，具体而言是 `C:\Users\用户名`。
 
 ---
