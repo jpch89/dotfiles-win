@@ -1,0 +1,19 @@
+" 搜索高亮
+set hlsearch
+" 增量搜索
+set incsearch
+" leader 回车 自动关闭搜索高亮
+nnoremap <leader><CR> :noh<CR>
+" 忽略大小写
+set ignorecase
+set smartcase
+set keep-english-in-normal-and-restore-in-insert
+
+" 引导键为空格
+let mapleader=" "
+" 开启 easymotion
+set easymotion
+" 开启 vim-surround
+set surround
+" 开启 vim-commentary
+set commentary
