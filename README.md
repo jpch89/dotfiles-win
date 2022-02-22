@@ -13,3 +13,7 @@
 - `.ideavimrc` 文件
 
   用于配置 `IntelliJ IDEA` 的 `Vim` 相关插件，启用了 `easymotion`，`leader` 键设置为空格键。
+
+- `IDEA2021.3.2/settings.zip` 文件
+
+  `IntelliJ IDEA 2021.3.2` 版本的导出设置。
