@@ -14,6 +14,7 @@
 
   用于配置 `IntelliJ IDEA` 的 `Vim` 相关插件，启用了 `easymotion`，`leader` 键设置为空格键。
 
-- `IntelliJIdea2021.3/settings.zip` 文件
+- `IntelliJIdea2021.3` 文件夹
 
-  `IntelliJ IDEA 2021.3.2` 版本的导出设置。
+  - `settings.zip`：`IntelliJ Idea 2021.3.2` 版本的导出设置。
+  - `plugins.md`：插件列表及作用说明。
