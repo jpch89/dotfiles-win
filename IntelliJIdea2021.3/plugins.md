@@ -9,3 +9,4 @@
 - `IdeaVim`：`Vim` 键位绑定。
 - `IdeaVim-EasyMotion`：快速移动，比如按两次 `<leader>` 键，然后按 `w` 可以快速跳转到页面内所有单词。
 - `Statistic`：统计代码行数。
+- `Grep Console`：高亮控制台的警告信息。
