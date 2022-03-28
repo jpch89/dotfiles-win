@@ -11,3 +11,4 @@
 - `Statistic`：统计代码行数。
 - `Grep Console`：高亮控制台的警告信息。
 - `Maven Helper`：用于快速找到并处理冲突的依赖。
+- `Spring Initializr and Assistant`：提供配置文件自动补全功能。
