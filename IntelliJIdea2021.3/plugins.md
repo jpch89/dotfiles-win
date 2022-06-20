@@ -3,7 +3,8 @@
 - `AceJump`：配合 `IdeaVim-EasyMotion` 使用。
 - `Alibaba Java Coding Guidelines`：阿里巴巴编程规约。
 - `Atom One Theme`：主题配色，有明亮和暗黑风格。
-- `Free MyBatis Tool`：可以在接口和 `xml` 之间跳转，还可以自动生成 `xml` 代码。
+- ~~`Free MyBatis Tool`：可以在接口和 `xml` 之间跳转，还可以自动生成 `xml` 代码。~~
+- `MyBatisX`：可以在接口和 `xml` 之间跳转，还可以自动生成 `xml` 代码。
 - `GenerateAllSetter`：写一句 `new User()`，在 `User` 上按 `Alt + Enter`，可以快速生成 `setter`。
 - `GitToolBox`：查看某一行是谁编辑的。
 - `IdeaVim`：`Vim` 键位绑定。
