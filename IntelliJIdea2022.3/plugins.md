@@ -13,3 +13,6 @@
 - `Grep Console`：高亮控制台的警告信息。
 - `Maven Helper`：用于快速找到并处理冲突的依赖。
 - `Spring Initializr and Assistant`：提供配置文件自动补全功能。
+- `GsonFormatPlus`：根据 `JSON` 字符串生成实体类。
+- `Json Parser`：在 `IDEA` 中验证和格式化字符串，不用打开浏览器。
+- `HTTP Client`：编写 `.http` 或者 `.rest` 脚本完成接口测试。
