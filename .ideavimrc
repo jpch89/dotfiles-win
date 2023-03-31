@@ -2,8 +2,8 @@
 set hlsearch
 " 增量搜索
 set incsearch
-" leader 回车 自动关闭搜索高亮
-nnoremap <leader><CR> :noh<CR>
+" Ctrl - L 清除上次搜索高亮
+nnoremap <silent> <C-L> :nohlsearch<CR><C-L>
 " 忽略大小写
 set ignorecase
 set smartcase
