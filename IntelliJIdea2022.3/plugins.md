@@ -4,7 +4,7 @@
 - ~~`Alibaba Java Coding Guidelines`：阿里巴巴编程规约。（太麻烦了）~~
 - `Atom One Theme`：主题配色，有明亮和暗黑风格。
 - ~~`Free MyBatis Tool`：可以在接口和 `xml` 之间跳转，还可以自动生成 `xml` 代码。~~
-- `GenerateAllSetter`：写一句 `new User()`，在 `User` 上按 `Alt + Enter`，可以快速生成 `setter`。
+- ~~`GenerateAllSetter`：写一句 `new User()`，在 `User` 上按 `Alt + Enter`，可以快速生成 `setter`。（使用 GenerateAllSetter Postfix Completion 代替）~~
 - `GenerateAllSetter Postfix Completion`：类似上一个插件，使用 `user.allset` 生成 `setter`，使用 `user.allsetn` 生成不带默认值的 `setter`，使用 `user.allget` 生成 `getter`，`user.allbuilder` 生成 `Lombok` 的 `@Builder` 调用链。
 - `GitToolBox`：查看某一行是谁编辑的。
 - `Grep Console`：高亮控制台的警告信息。
