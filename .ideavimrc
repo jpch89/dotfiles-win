@@ -1,3 +1,8 @@
+" 开启行号
+set nu
+" 开启相对行号
+set relativenumber
+
 " 搜索高亮
 set hlsearch
 " 增量搜索
